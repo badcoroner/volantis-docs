@@ -98,6 +98,10 @@ links:
       url: https://qinxs.github.io
       avatar: https://cdn.jsdelivr.net/gh/qinxs/cdn-assets/img/avatar.png
       tags: [技术总结, 各种折腾]
+    - name: 辣个人の小窝
+      url: https://www.xyp9x.com
+      avatar: https://cdn.jsdelivr.net/gh/badcoroner/wallpaperCollection/headPic.png
+      tags: [java, 游戏爱好者]
   - group: '版本：^2.0～2.4'
     desc: 导航栏 N 级菜单；新增 Tab、Note、Menu 标签
     items:
